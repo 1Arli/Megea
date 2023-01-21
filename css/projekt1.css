@@ -1,0 +1,190 @@
+
+.btn-outline-success{
+    color: white;
+    background-color:#45526e;
+}
+.btn-outline-light{
+    background-color:white;
+}
+
+.btn-primary{
+    background-color:#374158
+    
+    
+}
+
+.card{
+    margin: 5px;
+    margin-right: 5px;
+    border-radius: 10px;
+    border-color: #45526e;
+    
+}
+.card-body{
+    margin: 25px;
+}
+.card-title{
+    color: #45526e;
+}
+.sherbimet{
+    color: #374158;
+}
+.sherbimet{
+    background-color:white;
+    border: none;
+    color: #45526e;
+}
+.bottomleft{
+    position: absolute;
+    bottom: 10px;
+    left: 15px;
+    color: white;
+
+}
+.bottomleft1{
+    position: absolute;
+    bottom: 40px;
+    left: 15px;
+    color: white;
+}
+
+.sherbimet1{
+    background-color:white;
+    border-bottom: none;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+.a1{
+    color: #374158;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+}
+.liste1{
+    position: absolute;
+    padding-left: 500px;
+    padding-top: 40px;
+}
+.liste2{
+    position: absolute;
+    padding-left: 980px;
+    padding-top: 40px;
+}
+.liste3{
+    position: absolute;
+}
+.liste4{
+    position: absolute;
+    padding-left: 500px;
+    padding-top: 40px;
+}
+.liste5{
+    padding-left: 900px;
+    padding-top: 40px;
+}
+.liste6{
+    position: absolute;
+}
+.liste7{
+    position: absolute;
+    padding-left: 500px;
+    padding-top: 40px;
+}
+.liste8{
+    padding-left:950px ;
+    padding-top: 40px;
+}
+.card1{
+    
+    position: absolute;
+    padding-left: 30px;
+}
+.card2{
+    position: absolute;
+    padding-left: 30px;
+}
+.card3{
+    position: absolute;
+    padding-left: 30px;
+}
+.card-body{
+    border-color: #374158;
+
+}
+.cardd-title{
+    background-color: #374158;
+    
+    color: white;
+    text-align: center;
+    size: 100px;
+}
+.card-body1{
+    border: #374158;
+}
+.price1{
+    background-color:white;
+    border-color: #374158;
+    border-radius: 5px;
+    color:#374158;
+    text-align: center;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.price2{
+    background-color:white;
+    border-color: #374158;
+    border-radius: 5px;
+    color:#374158;
+    text-align: center;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.price3{
+    background-color:white;
+    border-color: #374158;
+    border-radius: 5px;
+    color:#374158;
+    text-align: center;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.sherbimett{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.card6{
+    border: none;
+    
+}
+.card7{
+    border: none;
+    
+}
+.card-img-overlay{
+    bottom: 50px;
+}
+
+#myBtn {
+    
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: white;
+    color:#374158;
+    cursor: pointer;
+    padding: 9px;
+    border-radius: 4px;
+  }
+  
+  #myBtn:hover {
+    background-color:white;
+    color: #374158;
+  }
+  
